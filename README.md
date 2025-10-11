@@ -1,7 +1,25 @@
-## 🎓 Certifications
-- 🧩 Oracle Certified Professional: Java SE 11 Developer (1Z0-819)
-- 🧠 Oracle Certified Professional: MySQL 8.0 Database Developer (1Z0-909)
+## 🎓 認證證書與徽章
 
-## 🏅 Badges
-<img src="[https://img.shields.io/badge/Java-Expert-orange?logo=java](https://catalog-education.oracle.com/pls/certview/sharebadge?id=26C794BF01320D171D6F0A830C081B605159BE6E03E1DCC9DC2F23E3D0F500D2)" />
-<img src="[https://img.shields.io/badge/MySQL-Certified-blue?logo=mysql](https://catalog-education.oracle.com/pls/certview/sharebadge?id=94276BC10DE0EB131D03F5275104E6BE3FBDEE14F8113498433BB7D9B2B7E2DC)" />
+### 🧩 Oracle 認證專業：Java SE 11 開發人員 (1Z0-819)
+
+- **證書連結**：  
+  [查看證書](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5139595&trackId=OCPJSE11&key=2ecf84c7c62129f300d420c7ed018156260575d9)
+
+- **徽章圖片**：  
+  ![Java SE 11 Developer Badge](https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-11-developer?intcmp=WWOUCERTBLOGECIHA032019)
+
+- **徽章連結**：  
+  [查看徽章](https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-11-developer?intcmp=WWOUCERTBLOGECIHA032019)
+
+---
+
+### 🧠 Oracle 認證專業：MySQL 8.0 資料庫開發人員 (1Z0-909)
+
+- **證書連結**：  
+  [查看證書](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5139595&trackId=MYSQLPRG80OCP&key=5069deb4caa74d427c0e02fe301739ae5bd31e67)
+
+- **徽章圖片**：  
+  ![MySQL 8.0 Database Developer Badge](https://www.credly.com/org/oracle/badge/mysql-8-0-database-developer-oracle-certified-professional)
+
+- **徽章連結**：  
+  [查看徽章](https://www.credly.com/org/oracle/badge/mysql-8-0-database-developer-oracle-certified-professional)
